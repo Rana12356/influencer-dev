@@ -140,10 +140,6 @@ nav {
   color: white;
 }
 
-.hide {
-  display: none;
-}
-
 /* Media Query styles */
 
 /* Mobile Devices */
@@ -176,7 +172,7 @@ nav {
     margin: 0;
   }
   .product-banner img {
-    width: 100;
+    width: 100%;
     margin-top: 10px;
   }
   .product-info {
